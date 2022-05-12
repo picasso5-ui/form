@@ -1,0 +1,154 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.container{
+             width: 100%;
+             height: 100vh;
+             
+}
+
+ body{
+  background:black;
+  
+
+}
+
+header{
+text-align: center;
+margin-bottom: 60px;
+color: grey;
+}
+
+.welc{
+  margin-top: 30px;
+  margin-bottom: 10px;
+
+}
+.form-1{
+     text-align: center;
+}
+
+.user-1{
+
+  margin-bottom: 20px;
+}
+.user{
+        border-radius: 8px;
+        padding-top: 10px;
+        padding-right: 70px;
+        padding-left: 5px;
+        padding-bottom: 10px;
+        background: lightcyan;
+        border: none;
+        outline: none;
+}
+::placeholder{
+  opacity: 0.4;
+}
+.pass{
+  border-radius: 8px;
+border: none;
+padding-top: 10px;
+        padding-right: 70px;
+        padding-left: 5px;
+        padding-bottom: 10px;
+  background: lightcyan;
+
+}
+
+
+
+
+
+.user-2{
+          margin-bottom: 30px;
+
+}
+.btn{
+  text-align: center;
+  margin-bottom: 30px;
+  border: none;
+  outline:none;
+
+}
+
+.log{
+  background: rgb(53, 53, 153);
+   border-radius: 8px;
+    padding: 10px 40px 10px 40px;
+    color: grey;
+}
+
+
+
+.forgt{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.fget-span>a:hover{
+  color: grey;
+  transition: 1s;
+}
+
+.fget-span >a{
+color:rgb(53, 53, 153) ;
+text-decoration: none;
+
+ 
+font-size: 20px;
+}
+.footer>p{
+  font-size: larger;
+}
+
+.footer{
+  text-align: center;
+  color: grey;
+}
+.quest{
+         color: grey;
+
+
+}
+.sign{
+
+  padding: 5px 10px 5px 10px;
+border-radius: 8px;
+font-size: larger;
+
+}
+.sign > a{
+  text-decoration: none;
+  color: rgb(53, 53, 153);
+
+}
+
+.sign > a:hover{
+           
+  color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
